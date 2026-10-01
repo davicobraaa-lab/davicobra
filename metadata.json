@@ -1,0 +1,6 @@
+{
+  "name": "Portal Risiko Pusri",
+  "description": "Sistem Manajemen Risiko Terpadu PT Pupuk Sriwidjaja Palembang - Identifikasi Risiko, Review Atasan/VP, Approval Admin, Pengendalian Triwulan (TW 1-4), dan Evaluasi Carry Over dengan Backend Golang & Database MySQL terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
